@@ -1,0 +1,10 @@
+body {
+	background: url("../images/candado.png") no-repeat center center fixed;
+	background-size: cover;
+	font-size: 24px;
+    text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	margin: 0;
+	color: rgb(255, 255, 255);
+}
